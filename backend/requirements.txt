@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+motor
+pydantic
+pydantic-settings
+httpx
+geojson
+python-dotenv
+pytest
+pytest-asyncio
+
+cloudinary==1.36.0
+opencv-python-headless
+numpy
+fpdf2
+python-multipart
+Pillow
